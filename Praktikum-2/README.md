@@ -11,3 +11,9 @@ Membuat file index.php dan membuat logika PHP serta Menampilkan Pesan Status dan
 
 Mengepush ke git hub melalui git bash 
 <img width="1919" height="534" alt="image" src="https://github.com/user-attachments/assets/0c75446a-c0a2-4480-8370-ee09453b4f90" />
+
+Hasil yang sudah di Upload ke Git Hub
+<img width="1849" height="948" alt="image" src="https://github.com/user-attachments/assets/959bac99-73df-4648-90ee-21e3ba1bc5ee" />
+
+Hasil Running 
+<img width="1848" height="949" alt="image" src="https://github.com/user-attachments/assets/67b3d75f-0cba-4cae-8f38-47f725163cd8" />
